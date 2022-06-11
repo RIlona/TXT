@@ -1,0 +1,4 @@
+	Name: Ilona,
+	Age: 45,
+	Number of pets: 2,
+	Expected salary: "$500"
