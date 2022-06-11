@@ -1,0 +1,5 @@
+Favorote movie: "Aliens",
+Favorite TV-show: "The Big Bang Theory",
+Favorite food: Sushi,
+Favorite season: Summer,
+Wish to visit: Iceland
